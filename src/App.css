@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.MuiAppBar-root {
+    background: linear-gradient(-45deg, #39249a, #e14e42);
+}
