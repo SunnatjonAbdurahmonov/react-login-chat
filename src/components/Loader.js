@@ -9,9 +9,9 @@ function Loader() {
         alignItems={"center"}
         justify={"center"}
         style={{ height: window.innerHeight - 50 }}>
-        <Grid container alignItems={"center"} justify={"center"}>
-          <div class="loadingio-spinner-eclipse-zmhsiiiy0at">
-            <div class="ldio-dz7k6orv7k7">
+        <Grid container alignItems={"center"} justifyContent={"center"}>
+          <div className="loadingio-spinner-eclipse-zmhsiiiy0at">
+            <div className="ldio-dz7k6orv7k7">
               <div></div>
             </div>
           </div>

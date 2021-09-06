@@ -16,13 +16,13 @@ function Login() {
       <Grid
         container
         alignItems={"center"}
-        justify={"center"}
+        justifyContent={"center"}
         style={{ height: window.innerHeight - 50 }}>
         <Grid
           style={{ width: 400, background: "lightgray" }}
           container
           alignItems={"center"}
-          justify={"center"}>
+          justifyContent={"center"}>
           <Box p={5}>
             <Button onClick={login} variant={"outlined"}>
               Login With Google
